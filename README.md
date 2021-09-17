@@ -7,4 +7,8 @@ To view the deployment [Click Here](https://shourya-chat.netlify.app/)
 
 ---
 # To test the application 
-To test the application and validate your username and password <br> contact me [Click To contact](gptshourya02@gmail.com)
+To test the application and validate your username and password <br> Contact me <br>
+|Platform|Details|
+| --- | --- |
+|Gmail|gptshourya02@gmail.com|
+|Instagram|https://www.instagram.com/gptshourya02/|
